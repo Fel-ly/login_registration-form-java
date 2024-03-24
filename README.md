@@ -5,3 +5,4 @@ Includes:
  * A dashboard containing the current user's name, and an option to add a new account.
  * Code to check whether the required database and table exist
  
+If the database already has records, running the program directs the user to the login page. However if no records exist, it opens in the registration page.
