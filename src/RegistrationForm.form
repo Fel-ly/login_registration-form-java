@@ -16,7 +16,7 @@
         </constraints>
         <properties>
           <font name="Consolas" size="18" style="1"/>
-          <text value="User Name"/>
+          <text value="Name"/>
         </properties>
       </component>
       <component id="3a9dd" class="javax.swing.JTextField" binding="tfName">
